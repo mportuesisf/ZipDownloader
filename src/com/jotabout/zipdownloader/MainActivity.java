@@ -1,4 +1,4 @@
-package com.zipdownloader;
+package com.jotabout.zipdownloader;
 
 /**
  * ZipDownloader
@@ -38,9 +38,10 @@ import android.view.WindowManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.zipdownloader.util.DecompressZip;
-import com.zipdownloader.util.DownloadFile;
-import com.zipdownloader.util.ExternalStorage;
+import com.jotabout.zipdownloader.util.DecompressZip;
+import com.jotabout.zipdownloader.util.DownloadFile;
+import com.jotabout.zipdownloader.util.ExternalStorage;
+import com.zipdownloader.R;
 
 /**
  * Example app to download and unpack a .zip file from an internet URL.

@@ -1,4 +1,4 @@
-package com.zipdownloader.util;
+package com.jotabout.zipdownloader.util;
 
 /**
  * ZipDownloader
