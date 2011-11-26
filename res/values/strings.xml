@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World</string>
+    <string name="app_name">User Application</string>
+    <string name="url_prompt">URL to load:</string>
+    <string name="start_button">Start download</string>
+    <string name="progress_title">Please wait</string>
+    <string name="progress_detail">Downloading assets...</string>
+</resources>
