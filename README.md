@@ -38,6 +38,7 @@ The code:
 * Locates the files on external storage in a place which will be automatically deleted by Android on uninstall
 * Uses buffered I/O for efficiency
 * Manages internal data in a way as to (mostly) be friendly to the Dalvik garbage collector.
+* is compatible with all versions of Android 2.1 through 4.0
 
 In short, it is production-ready code.
 
