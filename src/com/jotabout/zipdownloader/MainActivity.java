@@ -41,7 +41,7 @@ import android.widget.Toast;
 import com.jotabout.zipdownloader.util.DecompressZip;
 import com.jotabout.zipdownloader.util.DownloadFile;
 import com.jotabout.zipdownloader.util.ExternalStorage;
-import com.zipdownloader.R;
+import com.jotabout.zipdownloader.R;
 
 /**
  * Example app to download and unpack a .zip file from an internet URL.

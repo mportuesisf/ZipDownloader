@@ -4,6 +4,8 @@ This is an example app for Android that shows how to implement a background task
 
 Often applications, such as games, which have a lot of image and audio assets need to perform a one-time download at first run of the application.  This is because Google enforces a 50-megabyte limit for Android APK downloads.  Additionally, some other use cases require downloading portions of an app immediately after installation.
 
+The code is published under an Apache license.
+
 ## About the code ##
 
 ### Classes ###
