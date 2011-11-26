@@ -43,7 +43,7 @@ import com.zipdownloader.util.DownloadFile;
 import com.zipdownloader.util.ExternalStorage;
 
 /**
- * Quick example app to download and unpack a .zip file from an internet URL.
+ * Example app to download and unpack a .zip file from an internet URL.
  * 
  * @author portuesi
  *
@@ -68,6 +68,7 @@ public class MainActivity extends Activity {
         
         // Keep the screen (and device) active as long as this app is frontmost.
         // This is to avoid going to sleep during the download.
+        // http://stackoverflow.com/questions/4376902/difference-between-wakelock-and-flag-keep-screen-on
         getWindow().addFlags( WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON );
     }
     
