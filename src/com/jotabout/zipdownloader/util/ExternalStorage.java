@@ -57,7 +57,8 @@ public class ExternalStorage {
 		"/emmc",				// Internal storage on Droid Incredible, Nook Color/CyanogenMod, some other devices
 		"/sdcard/ext_sd",		// Newer (2011) HTC devices (Flyer, Rezound)
 		"/sdcard-ext",			// Some Motorola devices (RAZR)
-		"/sdcard/sd"			// Older Samsung Galaxy S (Captivate)
+		"/sdcard/sd",			// Older Samsung Galaxy S (Captivate)
+		"/sdcard/sdcard"		// Archos tablets
 	};
 	
 	/**
